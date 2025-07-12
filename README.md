@@ -14,13 +14,13 @@ A secure and intuitive graphical authentication system that replaces traditional
 
 ## 📂 Project Structure
 
-## 🖼️ Demo Screenshots
+## 🖼️  Screenshots
 
 ### 🔐 Homepage
-![index](screenshots/index.png)
+![Homepage](ScreenshotIndex.png)
 
 ### 📝 Register
-![register](screenshots/register.png)
+![Register](ScreenshotRegister.png)
 
 ### 🔐 Login
-![login](screenshots/login.png)
+![Login](ScreenshotLogin.png)
