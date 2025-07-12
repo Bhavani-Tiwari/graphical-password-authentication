@@ -13,3 +13,14 @@ A secure and intuitive graphical authentication system that replaces traditional
 - SQLite or MySQL
 
 ## 📂 Project Structure
+
+## 🖼️ Demo Screenshots
+
+### 🔐 Homepage
+![index](screenshots/index.png)
+
+### 📝 Register
+![register](screenshots/register.png)
+
+### 🔐 Login
+![login](screenshots/login.png)
