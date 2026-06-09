@@ -1,26 +1,26 @@
-# Web-Based Graphical Password Authentication System 🔐
+# Web-Based Graphical Password Authentication System 
 
 A secure and intuitive graphical authentication system that replaces traditional text-based login methods, enhancing resistance to brute-force attacks.
 
-## 🚀 Features
+##  Features
 - Click-based graphical password system
 - Increased security against brute-force and dictionary attacks
 - Clean UI with intuitive user interaction
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML, CSS, JavaScript
 - Python (Django)
 - SQLite or MySQL
 
-## 📂 Project Structure
+##  Project Structure
 
-## 🖼️  Screenshots
+##   Screenshots
 
-### 🔐 Homepage
+###  Homepage
 ![Homepage](ScreenshotIndex.png)
 
-### 📝 Register
+###  Register
 ![Register](ScreenshotRegister.png)
 
-### 🔐 Login
+###  Login
 ![Login](ScreenshotLogin.png)
